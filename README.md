@@ -62,7 +62,7 @@ Column names must include:
 ## ▶️ How to Run
 
 ```bash
-python gender_name_identifier.py
+python Bulk-gender-name-identifier.py
 ```
 
 ### Step-by-step:
